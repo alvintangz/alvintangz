@@ -1,9 +1,9 @@
 ### Hi, I'm Alvin Tang 👋
 
-**I am a Full Stack Software Development Engineer at [Varicent](https://www.varicent.com/).**
+**I am a Staff Software Engineer at [Varicent](https://www.varicent.com/).**&nbsp;&nbsp;<a href="https://www.linkedin.com/in/alvintangz/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="16" height="16"/>
+</a>
 
-I strive to create powerful tools that enable flexibility and makes processes more efficient. I graduated from the University of Toronto in 2021 with a Computer Science degree. I've previously interned at OpenText where I worked on the [Developer Experience](https://developer.opentext.com/) platform, and at the Government of Canada as a Web Developer. In addition, I've worked as the tech lead at [Live Competition](https://www.live-competition.org/) where I led a team of student developers that built an all-in-one university business case competition platform.
+I strive to build user-friendly tools that people genuinely like to use, whether it’s to improve productivity or support better health. I’m a Computer Science graduate from the University of Toronto and currently work at [Varicent](https://www.varicent.com/), where I build internal generative AI tools using cutting-edge tech to support teams like sales, education, and marketing. I own projects end-to-end and enjoy turning ideas into things people actually use.
 
-### Get in touch with me
-
-You can find me on [Linkedin](https://www.linkedin.com/in/alvintangz/).
+Previously at [Varicent](https://www.varicent.com/), I worked on Sales Planning, helping take a new product from proof of concept to an enterprise-scale solution while working full-stack on features like data cloning, internationalization, and notifications. On my GitHub, you’ll find personal and university projects, plus open-source work with [Vaccine Hunters Canada](https://vaccinehunters.ca/) that helped 2M+ Canadians find vaccines. Check out my pinned projects below 👇
